@@ -1,0 +1,9 @@
+[user]
+	email = m@coderbyheart.com
+	name = Markus Tacker
+[core]
+	editor = vim
+[pull]
+	rebase = true
+[pager]
+	branch = false
