@@ -1,0 +1,6 @@
+.idea
+.env
+.envrc
+.vscode/
+local/
+_build/

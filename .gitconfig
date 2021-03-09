@@ -3,6 +3,7 @@
 	name = Markus Tacker
 [core]
 	editor = vim
+	excludesfile = ~/.gitignore_global
 [pull]
 	rebase = true
 [pager]
