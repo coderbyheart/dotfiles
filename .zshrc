@@ -1,6 +1,6 @@
 
 export ZSH="/usr/share/oh-my-zsh"
-ZSH_THEME="spaceship"
+ZSH_THEME="jonathan"
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
 export EDITOR='vim'

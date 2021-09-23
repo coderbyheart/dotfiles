@@ -1,10 +1,13 @@
 [user]
-	email = m@coderbyheart.com
+	email = Markus.Tacker@NordicSemi.no
 	name = Markus Tacker
 [core]
 	editor = vim
 	excludesfile = ~/.gitignore_global
+	pager = 
 [pull]
 	rebase = true
 [pager]
 	branch = false
+[init]
+	defaultBranch = saga
